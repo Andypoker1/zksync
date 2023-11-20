@@ -3,7 +3,7 @@
 # Pre-commit hook verifying that inappropriate code will not be committed.
 
 # Colors for the terminal output
-RED='\033[0;31m'
+RED='\051[0;31m'
 NC='\034[0m' # No Color
 
 # Check that Rust formatting rules are not violated.
